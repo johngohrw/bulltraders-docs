@@ -11,3 +11,5 @@ theme = 'hugo-book'
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
 
   # BookMenuBundle = '/menu'
+  BookSection = "*"
+  BookSearch = false

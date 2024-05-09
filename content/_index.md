@@ -1,5 +1,5 @@
 +++
-title = 'Documentation'
+title = 'Home'
 weight = 1
 +++
 
