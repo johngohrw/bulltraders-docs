@@ -7,7 +7,7 @@ weight = 11
 
 This page is about managing products that you can sell via your online WooCommerce store.
 
-Keep in mind that although you can also technically manage Events in the same way, I would encourage you to refer to the [Managing Events](/docs/events) page for Events instead.
+Keep in mind that although you can also technically manage Events in the same way, I would encourage you to refer to the [Managing Events](/events) page for Events instead.
 
 ## Adding a new sellable Product
 
