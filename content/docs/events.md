@@ -24,7 +24,7 @@ Adding a new event is simple, but make sure you follow the steps below:
 
    ![alt text](/title.png)
 
-   - **Description**. Put all other miscellaneous information (agenda, speakers, etc.) on your description too.
+   - **Description**. Put all other miscellaneous information (agenda, speakers, additional images, etc.) on your description too.
 
    - **Start and End Date Times**. Make sure it's an upcoming date and the Start Time is not after the End Time.
 
@@ -44,6 +44,12 @@ Adding a new event is simple, but make sure you follow the steps below:
 
 3. That's it, nothing else is required. You can go ahead and save and publish the event to start selling it.
 
+4. Optionally, you could include one `Featured Image` for the event. Look for the `Events Feature Image` Section, which should be located on the right:
+
+   ![alt text](/eventsfeatureimage.png)
+
+   If you have additional images, one suitable place would be under `Description`.
+
 ### New Event Checklist
 
 Here is a checklist to go through before saving and publishing your newly-created event.
@@ -53,6 +59,10 @@ Here is a checklist to go through before saving and publishing your newly-create
 - [ ] Event has a Valid Location only under `Location/Venue` field.
 - [ ] All Start/End Date & Time fields are correctly filled. And it must be a future date.
 - [ ] Tickets Types are created properly with a `Name`, `Price` and `Capacity`.
+
+Optional:
+
+- [ ] Give the event a Featured Image. Additional images can be placed under `Description`.
 
 ## Checking Event Bookings
 
