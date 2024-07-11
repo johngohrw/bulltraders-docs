@@ -81,3 +81,17 @@ On the Wordpress Admin Dashboard, you can click on `WooCommerce` > `Orders`, or,
 3. You'll be able to see a list of customers that bought tickets to the selected Event. You can further filter by the customers' `Email` or `Name` to confirm attendance.
 
    ![alt text](/customerfilter.png)
+
+### Disable Tickets Selling for a Particular Event
+
+If by any chance you decide to not sell tickets/seatings using the website, you can turn it off by:
+
+1. On the Wordpress Admin Dashboard, click on `Events`. Look for your event and click `Edit`.
+
+2. On the Edit page, scroll down a little and look for the `Ticket and Pricing` submenu.
+
+   ![alt text](/turnoffregistration.png)
+
+3. inside `Ticket and Pricing`, there will be a Registration Off/On toggle switch. Turning this off will disable the ticket selling functionality only for this event.
+
+4. By doing so, users will not be able to purchase or book tickets for this event and ticketing-related text such as `Sorry, there are no seats available` will not appear.
